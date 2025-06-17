@@ -66,7 +66,7 @@ cryptography==43.0.3
 cuda-python==12.6.2.post1
 cudf-cu12 @ https://pypi.nvidia.com/cudf-cu12/cudf_cu12-25.2.1-cp311-cp311-manylinux_2_24_x86_64.manylinux_2_28_x86_64.whl
 cudf-polars-cu12==25.2.2
-cufflinks==0.17.3
+
 cuml-cu12==25.2.1
 cupy-cuda12x==13.3.0
 curl_cffi==0.11.3
@@ -345,7 +345,7 @@ nvidia-cuda-nvcc-cu12==12.5.82
 nvidia-cuda-nvrtc-cu12==12.5.82
 nvidia-cuda-runtime-cu12==12.5.82
 nvidia-cudnn-cu12==9.3.0.75
-nvidia-cufft-cu12==11.2.3.61
+
 nvidia-curand-cu12==10.3.6.82
 nvidia-cusolver-cu12==11.6.3.83
 nvidia-cusparse-cu12==12.5.1.3
